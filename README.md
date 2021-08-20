@@ -15,6 +15,10 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
+## Flutter 101 Presentation
+
+Google Slide - https://docs.google.com/presentation/d/1F6gMzSl8krYoiTM07R5AquDwXwxeOpzKIPgjWCjS7Sc/edit?usp=sharing
+
 ## ⚡ &ensp;Flutter Medium Articles 
 
 <!-- MEDIUM:START -->
